@@ -1,0 +1,7 @@
+id = "vscode-icons"
+name = "VSCode Icons"
+version = "0.1.0"
+schema_version = 1
+authors = ["Pranav Mangal <pranav.mangal.7@gmail.com>"]
+description = "VSCode icons for Zed"
+repository = "https://github.com/pranavmangal/zed-vscode-icons"
